@@ -1,7 +1,7 @@
 {
   "name": "linewalker",
   "version": "0.0.0",
-  "description": "",
+  "description": "utility to walk lines of strings, for NodeJS and the browser",
   "main": "lib/main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
